@@ -1,0 +1,14 @@
+* {
+   background-color: teal;
+}
+div.form, form.form, select, label {
+   background-color: white;
+}
+input, textarea {
+   background-color: orange;
+}
+div.form {
+   text-align: center;
+   width: 60%;
+   height: 150px;
+}
